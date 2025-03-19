@@ -1,5 +1,4 @@
-# car
-car racing
+# PLEASE Print as PDF file in order to keep image files.
 
 # 1
 ## url: https://www.sellmyapp.com/downloads/racing-game-unity-car-racing-source-code/
